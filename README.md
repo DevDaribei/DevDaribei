@@ -1,15 +1,15 @@
 
-## 👨‍💻 Desenvolvedor Web
+# 👋 Hi there, Deverson hear 
 
-Sou apaixonado por **Python**, **JavaScript**, **HTML**, **CSS** e estou em constante aprendizado e evolução para criar aplicações web dinâmicas e escaláveis. Atualmente, estou me aprofundando em frameworks como **React**, **Flask**, e **Django**.
+## 🚀 Estatísticas
 
+Aqui estão as minhas estatísticas no GitHub:
 
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDaribei&show_icons=true&count_private=true&hide=prs)
 
 ## 🚀 Tecnologias e Ferramentas
 
-Aqui estão as tecnologias que utilizo no meu dia a dia para construir **aplicações web**:
+Aqui estão as tecnologias que utilizo no meu dia a dia:
 
 ### **Front-End**:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,7 +25,4 @@ Aqui estão as tecnologias que utilizo no meu dia a dia para construir **aplica�
 ### **Banco de Dados**:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### **Outras Ferramentas**:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
