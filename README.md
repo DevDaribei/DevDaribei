@@ -1,5 +1,4 @@
-## Hi there, I'm Deverson hear 👋
-
+## Hi there,( https://github.com/DevDaribei/DevDaribei/blob/main/profile.png)
 ## 👨‍💻 Desenvolvedor Web
 
 Sou apaixonado por **Python**, **JavaScript**, **HTML**, **CSS** e estou em constante aprendizado e evolução para criar aplicações web dinâmicas e escaláveis. Atualmente, estou me aprofundando em frameworks como **React**, **Flask**, e **Django**.
