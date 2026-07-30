@@ -1,10 +1,6 @@
 # 👋 Hi there, I'm Deverson  
 
-## 📊 GitHub Stats  
-Aqui estão algumas estatísticas do meu GitHub:  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDaribei&show_icons=true&count_private=true&hide=prs&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaribei&layout=compact&theme=radical)  
+## 📊 GitHub  
 
 ---
 
